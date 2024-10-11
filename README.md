@@ -11,10 +11,5 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ---
 
-3. Navigate to the project directory  
-   cd todoapp
-
----
-
 4. Make sure you have an Android emulator running or a physical device connected.
    npm run android
